@@ -17,6 +17,6 @@ code: The folder that contains the codes for automatic segmenation of the SBF-SE
 2. Run main.m
 3. Folders for different organelle components will be automatically created and tiff images of the resulting segmentations will be saved in them. 
 
-Explanations of the settings parameters are given within main.m.
+Input image files should be in tiff format. Explanations of the settings parameters are given within main.m.
 
 
