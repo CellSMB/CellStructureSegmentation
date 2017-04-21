@@ -12,10 +12,12 @@ main.m: The main script file which the user edits and executes in matlab for run
 
 code: The folder that contains the codes for automatic segmenation of the SBF-SEM cardiac cell data.
 
+raw-sbfsem-binned-substack.zip contains a sub-stack of 11 image slices of the raw sbfsem data binned to 100 nm resolution due to file size limitaitons. 
 
-cell1-segmentations.zip contains segmentations of cell1 organelles.
 
-cell2-segmentations.zip contains segmentations of cell2 organelles. 
+cell1-segmentations-substack.zip contains a sub-stack of 11 image slices of segmentations of cell1 organelles.
+
+cell2-segmentations-substack.zip contains a sub-stack of 11 image slices of segmentations of cell2 organelles. 
 
 **Due to file-size limitations on github, we request those interested in access to our high resolution raw and segmented data to directly contact the corresponding author, Vijay Rajagopal, at vijay.rajagopal .at. unimelb.edu.au.**
 
