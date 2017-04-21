@@ -18,6 +18,7 @@ code: The folder that contains the codes for automatic segmenation of the SBF-SE
 3. Folders for different organelle components will be automatically created and tiff images of the resulting segmentations will be saved in them. 
 
 Settings Parameters:
+--------------------
 inputFolder = The folder where the SBF-SEM data is stored;
 outputFolder = 'The main folder in which the segmentation results should be stored;
 
