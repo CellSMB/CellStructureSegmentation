@@ -18,7 +18,7 @@ cell1-segmentations.zip contains segmentations of cell1 organelles.
 
 cell2-segmentations.zip contains segmentations of cell2 organelles. 
 
-**We request interested parties to directly contact the corresponding author, Vijay Rajagopal, at vijay.rajagopal .at. unimelb.edu.au.**
+**Due to file-size limitations on github, we request those interested in access to our high resolution data to directly contact the corresponding author, Vijay Rajagopal, at vijay.rajagopal .at. unimelb.edu.au.**
 
 **Running the program**
 -----------------------
